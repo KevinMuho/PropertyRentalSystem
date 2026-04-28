@@ -36,58 +36,6 @@
 									"name": "Property Booking",
 									"ownedViews": [
 										{
-											"_type": "UMLFrameView",
-											"_id": "AAAAAAGd1NKvwgmBFRM=",
-											"_parent": {
-												"$ref": "AAAAAAGd1NKvwgmAXFQ="
-											},
-											"model": {
-												"$ref": "AAAAAAGd1NKvwgmAXFQ="
-											},
-											"subViews": [
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAGd1NKvwgmCmlA=",
-													"_parent": {
-														"$ref": "AAAAAAGd1NKvwgmBFRM="
-													},
-													"font": "Arial;13;0",
-													"parentStyle": true,
-													"left": 152.72998046875,
-													"top": 21,
-													"width": 99.7216796875,
-													"height": 13,
-													"text": "Property Booking"
-												},
-												{
-													"_type": "LabelView",
-													"_id": "AAAAAAGd1NKvwgmDPiU=",
-													"_parent": {
-														"$ref": "AAAAAAGd1NKvwgmBFRM="
-													},
-													"font": "Arial;13;1",
-													"parentStyle": true,
-													"left": 133,
-													"top": 21,
-													"width": 13.72998046875,
-													"height": 13,
-													"text": "sd"
-												}
-											],
-											"font": "Arial;13;0",
-											"parentStyle": false,
-											"left": 128,
-											"top": 16,
-											"width": 744,
-											"height": 1144,
-											"nameLabel": {
-												"$ref": "AAAAAAGd1NKvwgmCmlA="
-											},
-											"frameTypeLabel": {
-												"$ref": "AAAAAAGd1NKvwgmDPiU="
-											}
-										},
-										{
 											"_type": "UMLControlNodeView",
 											"_id": "AAAAAAGd1Nb2QQmQqKs=",
 											"_parent": {
